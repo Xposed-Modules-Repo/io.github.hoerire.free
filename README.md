@@ -1,0 +1,34 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hoerire/Free/main/app/src/main/res/drawable-nodpi/ic_launcher_mark.png" width="112" alt="Flyme 小窗" />
+</p>
+
+<h1 align="center">Flyme 小窗（Free）</h1>
+
+把魅族的 Flyme 小窗交互搬到 ColorOS：从屏幕底角斜向内上滑呼出扇形菜单，滑到目标松手，当即以自由浮窗打开。LSPosed 模块，不改动系统分区。
+
+## 模块信息
+
+| 项 | 值 |
+|---|---|
+| 版本 | 3.1.1（versionCode 2026111691） |
+| 系统 | ColorOS 15 / 16 / 17（Android 15 及以上） |
+| 框架 | LSPosed，libxposed API 102 及以上 |
+| 作用域 | 系统框架、系统界面、桌面、智能侧边栏、内容传送门、系统设置 |
+| 源码 | [Hoerire/Free](https://github.com/Hoerire/Free) |
+| 更新日志 | [CHANGELOG](https://github.com/Hoerire/Free/blob/main/CHANGELOG.md) |
+
+> 3.1.1 与 3.1 / 3.0 同签名，可直接覆盖安装，设置与作用域保留；
+> 从 3.0 之前的版本（旧包名 `io.github.hoerire.flymefreeform`）升级仍需先卸载旧版。
+
+## 功能
+
+- **扇形菜单**：底角斜向内上滑呼出，可选左右 / 仅左 / 仅右；支持保持挂起、背景压暗与模糊、横屏与游戏模式暂停
+- **扇形应用**：最多七项，程序、分身、侧边栏工具与快捷入口混排，长按拖动排序；默认只显示自己添加的项
+- **选中特效**：选中光圈（细白边 + 投影）与流光特效（常亮光圈 + 星头 + 运动轨迹）可分别开启，另有光圈大小与选中放大
+- **更多面板**：取自智能侧边栏的「全部」，支持收藏、最近（7 天）与名称搜索
+- **小窗交互**：轻击窗外 / 双击窗外 / 点底部横条关闭；窗口数量上限；自动收窗；贴边保活；长按静音
+- **通知小窗**：通知中心、通知横幅、控制中心三处点开都以自由浮窗呈现，可分别开关
+- **自由传送**：内容传送门 17.3.18 / 17.5.4，长按内容即弹分享菜单
+- **底角手势**：桌面进程接管，上滑不再进多任务
+
+完整说明、安装步骤与已知限制见 [Hoerire/Free](https://github.com/Hoerire/Free)。
