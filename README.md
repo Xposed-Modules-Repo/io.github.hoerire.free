@@ -17,9 +17,6 @@
 | 源码 | [Hoerire/Free](https://github.com/Hoerire/Free) |
 | 更新日志 | [CHANGELOG](https://github.com/Hoerire/Free/blob/main/CHANGELOG.md) |
 
-> 3.1.1 与 3.1 / 3.0 同签名，可直接覆盖安装，设置与作用域保留；
-> 从 3.0 之前的版本（旧包名 `io.github.hoerire.flymefreeform`）升级仍需先卸载旧版。
-
 ## 功能
 
 - **扇形菜单**：底角斜向内上滑呼出，可选左右 / 仅左 / 仅右；支持保持挂起、背景压暗与模糊、横屏与游戏模式暂停
