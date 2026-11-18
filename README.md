@@ -11,7 +11,7 @@
 | 项 | 值 |
 |---|---|
 | 版本 | 3.1.5（versionCode 2026111795） |
-| 系统 | ColorOS 15 / 16 / 17（Android 15 及以上） |
+| 系统 | **ColorOS 17（主支持）**；ColorOS 15 / 16 保留兼容，不保证新功能 |
 | 框架 | LSPosed，libxposed API 102 及以上 |
 | 作用域 | 系统框架、系统界面、桌面、智能侧边栏、内容传送门、系统设置 |
 | 源码 | [Hoerire/Free](https://github.com/Hoerire/Free) |
