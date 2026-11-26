@@ -10,10 +10,10 @@
 
 | 项 | 值 |
 |---|---|
-| 版本 | 4.0.9（versionCode 2026112610） |
+| 版本 | 4.1（versionCode 2026112611） |
 | 系统 | ColorOS 15 / 16 / 17（Android 15 及以上） |
 | 框架 | LSPosed，libxposed API 102 及以上 |
-| 作用域 | 系统框架、系统界面、桌面、智能侧边栏、多窗口 |
+| 作用域 | 系统框架、系统界面、桌面、智能侧边栏、内容传送门、多窗口 |
 | 源码 | [Hoerire/Free](https://github.com/Hoerire/Free) |
 | 更新日志 | [CHANGELOG](https://github.com/Hoerire/Free/blob/main/CHANGELOG.md) |
 
